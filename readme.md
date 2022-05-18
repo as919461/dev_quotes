@@ -10,9 +10,11 @@ details.
 
 All quotes are sourced from https://en.wikiquote.org
 
-List of software developers
+# List of software developers
 
-Linus Torvalds
-Martin Fowler
-Larry Wall
+- Linus Torvalds
+- Martin Fowler
+- Larry Wall
+- Alan Kay
+- Bjarne Stroustrup
 
